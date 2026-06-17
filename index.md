@@ -6,8 +6,8 @@ title: Home
 <p>
   <strong>Quick Links:</strong> 
   <a href="{{ '/pharmacology/' | relative_url }}">Pharmacology</a> | 
-  <a href="#">Pharmaceutics</a> | 
-  <a href="#">Job Updates</a>
+  <a href="{{ '/jurisprudence/' | relative_url }}">Jurisprudence</a> | 
+  <a href="{{ '/mcq-bank/' | relative_url }}">MCQ Bank</a>
 </p>
 <hr>
 <h2>Latest Exam Updates & Study Material</h2>
