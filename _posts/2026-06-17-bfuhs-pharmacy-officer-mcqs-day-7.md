@@ -2,7 +2,7 @@
 layout: post
 title: "Day 7: Top 30 High-Yield PYQ Pharmacy MCQs for BFUHS Preparation"
 date: 2026-06-17 09:37:49 +0530
-categories: mcqs
+categories: mcq-bank
 ---
 
 Welcome to **Day 7** of our ultimate 45-day BFUHS Pharmacy Officer exam preparation journey! Today, we are pushing forward with 30 entirely new, high-priority Previous Year Questions (PYQs). We have carefully selected these questions from the core pharmacy syllabus to match the exact difficulty level of the Baba Farid University of Health Sciences exams.
