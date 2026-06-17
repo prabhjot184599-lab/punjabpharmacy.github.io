@@ -23,10 +23,12 @@ title: Home
   {% endfor %}
 </ul>
 ---
+---
 
 <p style="text-align: center; font-size: 0.9em;">
   &copy; 2026 Punjab Pharmacy | 
   <a href="{{ '/about/' | relative_url }}">About Us</a> | 
+  <a href="{{ '/contact/' | relative_url }}">Contact Us</a> | 
   <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a> | 
   <a href="{{ '/disclaimer/' | relative_url }}">Disclaimer</a>
 </p>
