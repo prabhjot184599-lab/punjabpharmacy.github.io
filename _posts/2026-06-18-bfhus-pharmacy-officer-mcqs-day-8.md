@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "BFUHS Pharmacy Officer MCQs Day 8"
-date: 2026-06-18 10:00:00 +0530
 categories: mcqs
 ---
 
