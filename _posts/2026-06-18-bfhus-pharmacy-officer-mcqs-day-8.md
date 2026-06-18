@@ -3,7 +3,6 @@ layout: post
 title: "BFUHS Pharmacy Officer MCQs Day 8"
 date: 2026-06-18 10:00:00 +0530
 categories: mcqs
-permalink: /day8/
 ---
 
 # Day 8: Top 30 High-Yield PYQ Pharmacy MCQs for BFUHS Preparation
