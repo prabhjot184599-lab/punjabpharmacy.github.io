@@ -2,6 +2,7 @@
 layout: post
 title: "BFUHS Pharmacy Officer MCQs Day 9"
 categories: mcqs
+permalink: /day9/
 ---
 # Day 9: Top 30 High-Yield PYQ Pharmacy MCQs for BFUHS Preparation
 
@@ -344,4 +345,4 @@ For free PDF study materials, daily automated MCQs, and instant exam notificatio
 
 👉 [Join the PUNJAB DRUG INSPECTOR AND PHARMACIST Telegram Channel](https://t.me/punjabpharm)
 
-[&larr; Previous: Review Day 8](LINK_TO_DAY_8_PAGE) ;
+[&larr; Previous: Review Day 8](https://punjabpharmacy.github.io/mcqs/2026/06/18/bfhus-pharmacy-officer-mcqs-day-8.html) ;
