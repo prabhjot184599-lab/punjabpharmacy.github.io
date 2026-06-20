@@ -9,3 +9,4 @@ theme: jekyll-theme-minimal
 # Build settings
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
