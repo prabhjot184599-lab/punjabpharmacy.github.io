@@ -344,4 +344,4 @@ For free daily MCQs, instant syllabus updates, and the best PDF study materials,
 
 👉 [Join the PUNJAB DRUG INSPECTOR AND PHARMACIST Telegram Channel](https://t.me/punjabpharm)
 
-[&larr; Previous: Review Day 11](LINK_TO_DAY_11_PAGE) | Next: Go to Day 13 Preparation &rarr;
+[&larr; Previous: Review Day 11](https://github.com/punjabpharmacy/punjabpharmacy.github.io/blob/main/_posts/26-06-22-bfhus-pharmacy-officer-mcq-day-11.md)  &rarr;
