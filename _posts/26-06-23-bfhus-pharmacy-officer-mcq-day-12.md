@@ -1,8 +1,9 @@
 ---
-layout: "post"
+layout: post
 title: "bfhus pharmacy officer mcq day 12"
-categories: "mcqs"
+categories: mcqs
 permalink: /bfhus pharmacy officer mcq day 12/
+---
 # Day 12: Top 30 High-Yield PYQ Pharmacy MCQs for BFUHS Preparation
 
 Hey everyone, welcome to **Day 12** of our 45-day BFUHS Pharmacy Officer exam masterclass! 
