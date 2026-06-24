@@ -342,4 +342,4 @@ For free daily automated MCQs, syllabus updates, and premium PDF study materials
 
 👉 [Join the PUNJAB DRUG INSPECTOR AND PHARMACIST Telegram Channel](https://t.me/punjabpharm)
 
-[&larr; Previous: Review Day 12](https://github.com/punjabpharmacy/punjabpharmacy.github.io/blob/main/_posts/26-06-23-bfhus-pharmacy-officer-mcq-day-12.md) | &rarr;
+[&larr; Previous: Review Day 12](https://punjabpharmacy.github.io/bfhus%20pharmacy%20officer%20mcq%20day%2012/) | &rarr;
