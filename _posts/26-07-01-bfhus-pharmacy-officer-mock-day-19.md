@@ -664,4 +664,4 @@ For daily automated MCQs, PDF notes, and instant exam updates, join the absolute
 
 👉 [Join the PUNJAB DRUG INSPECTOR AND PHARMACIST Telegram Channel](https://t.me/punjabpharm)
 
-[&larr; Previous: Review Day 16](LINK_TO_DAY_16_PAGE) | Next: Go to Day 19 Preparation &rarr;
+[&larr; Previous: Review Day 16](https://punjabpharmacy.github.io/bfhus-pharmacy-mcq-day-16/) | Next: Go to Day 19 Preparation &rarr;
